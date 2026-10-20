@@ -1,2 +1,3 @@
-# M616a1_Emin
-Python praktikumu üçün nümunə repozitori
+# 2-ci dərs
+
+pandas ilə ilk analiz.
